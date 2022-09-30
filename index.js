@@ -5,8 +5,11 @@ import replies from './config/replies.json'
 import emojis from './config/emojis.json'
 import whiteListHandler from './handlers/whiteListHandler.js'
 import blackListHandler from './handlers/blackListHandler.js'
+import dotenv from 'dotenv'
+dotenv.config()
 
 const token = process.env.BOT_TOKEN;
+console.log(token)
 
 const commands = [
   {
