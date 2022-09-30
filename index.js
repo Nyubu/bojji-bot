@@ -6,7 +6,7 @@ import emojis from './config/emojis.json'
 import whiteListHandler from './handlers/whiteListHandler.js'
 import blackListHandler from './handlers/blackListHandler.js'
 
-const token = env.process.BOT_TOKEN;
+const token = process.env.BOT_TOKEN;
 
 const commands = [
   {
