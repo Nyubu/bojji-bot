@@ -1,0 +1,81 @@
+{
+    "bad" : {
+        "pet": [
+            "Please don't touch me like that.",
+            "Hey! Keep your hands to yourself pal!",
+            "*SIGH*.. Now I have to go shower..",
+            "Don't ever do that again.",
+            "What the heck are you doing?? Weirdo.",
+            "Hands off me you creep.",
+            "Buzz off!"
+        ],
+        "followupInsults": [
+            ""
+        ],
+        "general": {
+            "mid" : [
+                "You're mid.",
+                "It's better than anything you prefer",
+                "Wow. An objectively wrong opinion.",
+                "That's so true ||except for the fact that it isn't||"
+            ],
+            "bot" : [
+                "You're more of a bot than I am.",
+                "Ahem. That's a little racist, no?",
+                "Ahem. Excuse me?",
+                "Hmph."
+            ],
+            "time" : [
+                "He's lying I just know it.",
+                "So tomorrow then?",
+                "Now that's cap.",
+                "That's so cap",
+                "🧢"
+            ],
+            "botHate" : [
+                "Now that's racist.",
+                "Bots have feelings too ya know.",
+                "Hate? That's a bit harsh",
+                "Haters gonna hate."
+            ],
+            "strawman" : [
+                "The classic strawman technique. Hm. Interesting.",
+                "Strawmanning, are we?"
+            ],
+            "interesting" : [
+                "What's more interesting is the fact that you think cookie crisp, the best cereal of all time is trash",
+                "Interesting indeed."
+            ],
+            "bitches" : [
+                "Pfft. Who needs those when we have people like you?",
+                "Haters gonna hate."
+            ],
+            "ban" : [
+                "Ban yourself pal.",
+                "Sheesh. You don't need to go that far."
+            ],
+            "crazy" : [
+                "cRaZy",
+                "What's crazy is the fact that you're maidenless."
+            ]
+        }
+    },
+    "good" : {
+        "pet": [
+            "Thanks for the pet! <:mymheart:1024533105723310140> ",
+            "Thank you for the pet! ",
+            "Hehe thanks! "
+        ],
+        "compliments": [
+            "You're doing great! Keep up the good work",
+            ""
+        ],
+        "femaleCompliments": [
+            "You're as gorgeous as ever today! <:mymheart:1024533105723310140>",
+            "! <:mymheart:1024533105723310140>"
+        ],
+        "general": [
+
+        ]
+    }
+}

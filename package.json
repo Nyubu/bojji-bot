@@ -1,0 +1,23 @@
+{
+  "name": "bojji-bot",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyubu/bojji-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyubu/bojji-bot/issues"
+  },
+  "homepage": "https://github.com/Nyubu/bojji-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}
