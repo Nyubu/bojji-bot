@@ -15,19 +15,20 @@
         "general": {
             "mid" : [
                 "You're mid.",
-                "It's better than anything you prefer",
                 "Wow. An objectively wrong opinion.",
-                "That's so true ||except for the fact that it isn't||"
+                "Pfft. If I wanted to hear bad opinions I'd follow leffen on Twitter.",
+                "Hmm, Interesting. My sources indicate that you are the middest of mids.",
+                ""
             ],
             "bot" : [
                 "You're more of a bot than I am.",
                 "Ahem. That's a little racist, no?",
-                "Ahem. Excuse me?",
-                "Hmph."
+                "Ahem. Excuse me? You're a bot.",
+                "Hmph. Rude."
             ],
             "time" : [
                 "He's lying I just know it.",
-                "So tomorrow then?",
+                "So.. tomorrow then?",
                 "Now that's cap.",
                 "That's so cap",
                 "🧢"
@@ -43,7 +44,7 @@
                 "Strawmanning, are we?"
             ],
             "interesting" : [
-                "What's more interesting is the fact that you think cookie crisp, the best cereal of all time is trash",
+                "What's more interesting is the fact that ",
                 "Interesting indeed."
             ],
             "bitches" : [
@@ -55,8 +56,43 @@
                 "Sheesh. You don't need to go that far."
             ],
             "crazy" : [
-                "cRaZy",
-                "What's crazy is the fact that you're maidenless."
+                "So cRaZy",
+                "What's crazy is the fact that you're maidenless.",
+                "What's crazy is that you've never made it past diamond in these recent years."
+            ],
+            "fifth" : [
+                "I got your 5th right here **pants grab**",
+                "What do you need a 5th for? Aren't you always 5th?"
+            ],
+            "wym" : [
+                "You know exactly what they mean."
+            ],
+            "youMean" : [
+                "No. That's not what was meant."
+            ],
+            "iKnowIsntTalking" : [
+                "I know the cookie crisp hater isn't talking."
+            ],
+            "okAnd" : [
+                "And you eat pizza starting from the crust",
+                "And you thought Yu-Gi-Oh 5Ds was good."
+            ],
+            "yes" : [
+                "No.",
+                "How about no?"
+            ],
+            "no" : [
+                "Yes.",
+                "How about yes?"
+            ],
+            "sorry" : [
+                "You better be sorry."
+            ],
+            "bojjiBot" : [
+                "Uhh... Can I help you?"
+            ],
+            "greetBot" : [
+                "**ignores**"
             ]
         }
     },
@@ -64,7 +100,8 @@
         "pet": [
             "Thanks for the pet! <:mymheart:1024533105723310140> ",
             "Thank you for the pet! ",
-            "Hehe thanks! "
+            "Hehe thanks!",
+            "💕"
         ],
         "compliments": [
             "You're doing great! Keep up the good work",
@@ -74,8 +111,13 @@
             "You're as gorgeous as ever today! <:mymheart:1024533105723310140>",
             "! <:mymheart:1024533105723310140>"
         ],
-        "general": [
-
-        ]
+        "general": {
+            "greet": [
+                "Hiya! Hope all is well!",
+                "Heyo! Nice to see you",
+                "Hello there!",
+                "Osu!"
+            ]
+        }
     }
 }
