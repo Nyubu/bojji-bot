@@ -1,4 +1,5 @@
 import replies from '../config/replies.json'
+import lists from '../config/lists.json'
 
 const whiteListHandler = (args, message) => {
 
