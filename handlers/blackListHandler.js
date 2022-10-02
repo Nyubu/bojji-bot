@@ -5,7 +5,7 @@ const blackListHandler = (args, message) => {
 
     switch (args[0]) {
         case 'pet':
-            message.reply(replies.bad.pet[Math.floor(Math.random() * replies.bad.pet.length)]);
+            message.reply("https://www.youtube.com/watch?v=x_7tK4Ip12A");
             break;
         case 'stand':
             const isStandUser = lists.standUsers.includes(message.author.tag)
