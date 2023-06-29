@@ -1,4 +1,7 @@
 {
+    "super": {
+        "pet": []
+    },
     "bad" : {
         "pet": [
             "Please don't touch me like that.",
@@ -56,7 +59,7 @@
                 "Sheesh. You don't need to go that far."
             ],
             "crazy" : [
-                "So cRaZy",
+                "What's even crazier is the fact that the folder on your computer named 'Pokimane feet pics' is empty.",
                 "What's crazy is the fact that you're maidenless.",
                 "What's crazy is that you've never made it past diamond in these recent years."
             ],
@@ -68,10 +71,12 @@
                 "You know exactly what they mean."
             ],
             "youMean" : [
-                "No. That's not what was meant."
+                "No. That's not what was meant.",
+                "I give that one a 4/10"
             ],
             "iKnowIsntTalking" : [
-                "I know the cookie crisp hater isn't talking."
+                "I know the cookie crisp hater isn't talking.",
+                "I know the "
             ],
             "okAnd" : [
                 "And you eat pizza starting from the crust",
@@ -93,6 +98,9 @@
             ],
             "greetBot" : [
                 "**ignores**"
+            ],
+            "knewIt" : [
+                "You knew? *Sure* you did."
             ]
         }
     },
